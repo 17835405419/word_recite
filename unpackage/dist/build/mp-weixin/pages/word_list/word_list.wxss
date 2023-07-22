@@ -1,0 +1,2 @@
+.word_list-box ._ul.data-v-3e056883,
+.word_list-box ._li.data-v-3e056883{list-style:none}.word_list-box ._li.data-v-3e056883{height:3vh;line-height:3vh;padding:1vh 0;font-size:13px;display:flex;justify-content:space-between}.word_list-box ._li text.data-v-3e056883{color:#848484;padding-right:5vw}.word_list-box .title-box.data-v-3e056883{display:flex;justify-content:space-between;padding:20rpx;font-size:15px}.word_list-box .title-box .time.data-v-3e056883{font-size:13px}
