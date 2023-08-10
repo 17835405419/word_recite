@@ -72,7 +72,7 @@
 		li {
 			height: 3vh;
 			line-height: 3vh;
-			padding: 1vh 0;
+			padding: 1vh 8vw;
 			font-size: 13px;
 			display: flex;
 			justify-content: space-between;

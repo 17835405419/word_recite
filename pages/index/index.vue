@@ -16,8 +16,7 @@
 			<input type="text" maxlength="3" v-model="secret.two">-
 			<input type="text" maxlength="3" v-model="secret.three">-
 			<input type="text" maxlength="3" v-model="secret.four">
-
-		</view>
+		</view> 
 	</view>
 </template>
 
